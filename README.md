@@ -1,6 +1,8 @@
 # C-language
 This repository contains my solutions to the exercises from GeeksforGeeks C exercises.
 
+[Go to questions](https://www.geeksforgeeks.org/c-exercises/)
+
 # questions
 
 Q13: Write a Program to find the maximum and minimum of an Array.
