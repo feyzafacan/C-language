@@ -14,3 +14,9 @@ In this problem, you have to write a program that takes an array arr[] of size N
 
 Q16: Write a Program to remove duplicates from the Sorted array.
 In this problem, you have to write a program that takes a sorted array arr[] of size N from the user and removes the duplicate elements from the array.
+
+Q17: Write a Program to search elements in an array (using Binary Search).
+In this problem, you have to write a program that takes an array arr[] of size N and a target value to be searched by the user. Search the target value using binary search if the target value is found print its index else print ‘element is not present in array‘.
+
+Q19: Write a Program to find the Transpose of a Matrix.
+In this problem, you have to write a program to find the transpose of a matrix for a given matrix A with dimensions m x n and print the transposed matrix. The transpose of a matrix is formed by interchanging its rows with columns.
